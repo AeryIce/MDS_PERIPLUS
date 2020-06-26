@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "MDS_Periplus", "MDS_Periplus.vbproj", "{1AAF3901-EB6B-4C38-BDB5-46D4879A545C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AAF3901-EB6B-4C38-BDB5-46D4879A545C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AAF3901-EB6B-4C38-BDB5-46D4879A545C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AAF3901-EB6B-4C38-BDB5-46D4879A545C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AAF3901-EB6B-4C38-BDB5-46D4879A545C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22666AF0-5C57-4A6E-ABCB-CE37D082AA6E}
+	EndGlobalSection
+EndGlobal
